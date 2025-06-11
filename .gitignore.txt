@@ -1,0 +1,16 @@
+# Visual Studio / C#
+.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+
+# MelonLoader
+/Libs/
+/Mods/
+/UserData/
+/MelonLoader/
+
+# Rider / JetBrains
+.idea/
+*.sln.DotSettings.user
