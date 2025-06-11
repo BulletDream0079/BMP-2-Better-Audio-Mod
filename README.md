@@ -1,6 +1,8 @@
 # GHPC BMP-2 Better Audio Mod
 
-This is a sound modification for Gunner, HEAT, PC! (GHPC) that replaces the default BMP-2 2A42 autocannon sounds with custom audio.
+Sound modification for Gunner, HEAT, PC! (GHPC) that replaces the default BMP-2 2A42 autocannon sounds with custom audio.
+
+Huge thanks to Atlas for the method of sound replacement! <3
 
 ## Features
 - Custom exterior firing sounds.
