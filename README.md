@@ -11,7 +11,7 @@ Huge thanks to Atlas for the method of sound replacement! <3
 
 ## Installation
 1. Make sure you have MelonLoader installed for GHPC.
-2. Go to the [Releases page](https://github.com/YOUR-USERNAME/YOUR-REPO-NAME/releases).
+2. Go to the [Releases page](https://github.com/BulletDream0079/BMP-2-Better-Audio-Mod/releases/tag/v1.0).
 3. Download the latest `.zip` file.
 4. Extract the contents into your GHPC `Mods` folder.
 
